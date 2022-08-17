@@ -1,0 +1,23 @@
+*{box-sizing: border-box;}
+		#bang1{margin: 0 auto; width: 1024px; background-color: lightgray; padding: 0px;}
+		.bang3{margin: 0px;padding: 0px;border-radius: 5px;box-shadow: 0 0 5px orangered;list-style: none;background-color: orangered;height: 40px;}
+		ul.bang3>li>a{display: block;line-height: 40px;text-decoration: none;font-variant: small-caps;padding-left: 25px;color: white;}
+		ul.bang3>li>a:hover {color: white;font-weight: bolder;}
+		ul.bang3>li{float: ;margin: 0 5px;position: relative;list-style: none;float: left;}
+		ul.bang3>li:hover>.menu{display: block;} 
+		ul.bang3>li:hover>.sub{display: block;}
+		.menu{margin: 0px;padding: 0px;border-radius: 5px;box-shadow: 0 0 5px orangered;list-style: none;width: 150px;position: absolute;display: none;}
+		.menu>li>a{display: block;line-height: 30px;border-bottom: 1px
+			 dotted orangered;text-decoration: none;font-variant:small-caps;padding-left: 25px;background: url('b1.gif') no-repeat left center;color: orangered;}
+		.menu>li>a:hover {background: url('b2.gif') no-repeat left center;color: red;font-weight: bolder;}
+		.sub{margin: 0px;padding: 0px;border-radius: 5px;box-shadow: 0 0 5px orangered;list-style: none;width: 230px;position: absolute;display: none;}
+		.sub>li>a{display: block;line-height: 30px;border-bottom: 1px
+			 dotted orangered;text-decoration: none;font-variant:small-caps;padding-left: 25px;background: url('b1.gif') no-repeat left center;color: orangered;}
+		.sub>li>a:hover {background: url('b2.gif') no-repeat left center;color: red;font-weight: bolder;}
+		.bang2{position: relative;}
+		h2{position: absolute;top: 30px;left: 999px; color: white;font-size: 100%}
+		.bang4{width: 200px;height: 240px;border: 1px solid black ;position: absolute;top:500px;left: 250px;border-radius: 4px;}
+		.bang5{width: 60px;height: 30px;border: 1px solid blue;background:yellow;position: absolute;bottom: 30px;right: 10px;top:20px;}
+		.img{margin: 0 auto;width: 25px;color: white;padding: 0px;border-radius: 2px;}
+		.img1{margin: 0 auto;width: 15px;color: white;padding: 1px;border-radius: 2px;top:auto;}
+		.img2{margin: 0 auto;width: 15px;color: white;padding: 1px;border-radius: 2px;top:auto;}
