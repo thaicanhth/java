@@ -1,4 +1,3 @@
-import java.text.DateFormat;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
@@ -26,4 +25,3 @@ public class Baitap3 {
         }
     }
 }
-

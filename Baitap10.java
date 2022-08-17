@@ -1,5 +1,3 @@
-import com.sun.java.accessibility.util.AccessibilityListenerList;
-
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
@@ -136,8 +134,4 @@ public class Baitap10 {
         }
     }
 }
-
-
-
-
 

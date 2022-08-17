@@ -18,4 +18,3 @@ public class Baitap6 {
             System.out.println(num+ " Không phải là số chính phương");
     }
 }
-

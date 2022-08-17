@@ -30,7 +30,7 @@ public class Baitap9 {
                 if (A[i] % 2!=0)
                 {
                     System.out.print(A[i] + "\t");
-        // tìm giá trị lớn nhất trong mảng A
+                    // tìm giá trị lớn nhất trong mảng A
                     int a,m;
 
                     System.out.println("Nhập vào số dòng của ma trận: ");
@@ -104,9 +104,9 @@ public class Baitap9 {
 
                     for (int k = 0; k < n; k++) {
                         if (A[k] % 2 == 0)
-                        if (A[i] == number) {
-                            count++;
-                        }
+                            if (A[i] == number) {
+                                count++;
+                            }
                     }
                     System.out.println("Số phần tử " + number + " có giá trị chẵn = " + count);
                     // viết hàm tách tất cả các giá trị chẵn trong mảng A vào các mảng B
@@ -132,4 +132,3 @@ public class Baitap9 {
         }
     }
 }
-
